@@ -1,0 +1,27 @@
+{
+  "name": "async-interval-timer",
+  "version": "1.0.0",
+  "description": "a simple timer that runs a piece of code repeatedly with an interval of n milliseconds, until stopped",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrkosinski/async-interval-timer.git"
+  },
+  "keywords": [
+    "async",
+    "timer",
+    "interval"
+  ],
+  "author": "John R. Kosinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrkosinski/async-interval-timer/issues"
+  },
+  "dependencies": {
+    "asyncawait": "^1.0.7"
+  },
+  "homepage": "https://github.com/jrkosinski/async-interval-timer#readme"
+}
