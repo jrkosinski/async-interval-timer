@@ -1,0 +1,8 @@
+=============== Jul 14, 2018 (+07) ===============
+00:21:19.868506 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:21:19.943682 db@open opening
+00:21:19.959517 version@stat F·[] S·0B[] Sc·[]
+00:21:20.010738 db@janitor F·2 G·0
+00:21:20.010821 db@open done T·67.052282ms
+00:22:02.949935 db@close closing
+00:22:02.949975 db@close done T·39.672µs

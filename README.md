@@ -1,5 +1,6 @@
 async-interval-timer
 ====================
+https://npmjs.com/package/async-interval-timer
 
 Use Case
 --------
